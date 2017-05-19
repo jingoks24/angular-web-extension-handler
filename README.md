@@ -1,4 +1,4 @@
-# Angular Error Handler
+# Angular Web Extension Handler
 An angular library that handles the checking if extension specified is installed or not, it also allows you to trigger inline installation with the right configuration.
 
 ## Getting Started
