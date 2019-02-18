@@ -21,7 +21,7 @@ var chromeExtensionHandler = [function () {
 
     function isBeingUsed() {
             // Checks if the browser used is Chrome
-        return !!window.chrome && !!window.chrome.webstore;
+        return !!window.navigator.vendor;
     }
 
     function factory($q) {
