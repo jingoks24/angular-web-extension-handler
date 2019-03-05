@@ -1,6 +1,6 @@
 {
-  "name": "angular-web-extension-handler",
-  "version": "1.0.1",
+  "name": "angular-web-extension-handler-v2",
+  "version": "1.0.0",
   "description": "An angular library that handles the checking if extension specified is installed or not, it also allows you to trigger inline installation with the right configuration.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TMJPEngineering/angular-web-extension-handler.git"
+    "url": "git+https://github.com/jingoks24/angular-web-extension-handler.git"
+    
   },
   "keywords": [
     "ng",
@@ -17,7 +18,7 @@
     "addon",
     "plugin"
   ],
-  "author": "Julius Marvin S. San Pascual",
+  "author": "Julius Marvin S. San Pascual with Changes from Jeanne Anne Gokotano",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TMJPEngineering/angular-web-extension-handler/issues"
